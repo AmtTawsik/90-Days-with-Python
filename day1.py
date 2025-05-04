@@ -1,3 +1,20 @@
+# Printing a message
+print("Hello, Python!")
+
+# Arithmetic operations
+x = 10
+y = 5
+sum = x + y
+product = x * y
+print("Sum:", sum)
+print("Product:", product)
+
+# Data storage
+age = 30
+name = "Alice"
+print(f"{name} is {age} years old.")
+
+
 # Exercise 1:
 Length = 10
 Width= 15
